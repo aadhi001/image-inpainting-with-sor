@@ -26,4 +26,4 @@ This Python project implements **image inpainting** to restore missing regions i
 
 
 ---
-*_This project was completed as part of the Numerical Linear Algebra course (submission date: 06.06.2025) at Brandenburgische Technische Universität._
+*_This project was completed as part of the Numerical Linear Algebra course at Brandenburgische Technische Universität._
