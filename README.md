@@ -18,7 +18,6 @@ This Python project implements **image inpainting** to restore missing regions i
 ## Output
 ![Inpainting Results](images/inpainting_results.png)
 
-*Add the image: Save the plot from `iterative_solver.py` (e.g., `plt.savefig('images/inpainting_results.png')`), upload to an `images` folder, and update the path.*
 
 ## How to Run
 1. **Requirements**: Python 3.x, NumPy, Matplotlib.
